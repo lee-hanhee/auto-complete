@@ -1,4 +1,4 @@
-# Autocomplete Project for ESC 190 H1F - Winter 2023
+# Autocomplete Project 
 
 ## Overview
 This project implements a high-performance autocomplete feature using C. The primary objective is to retrieve the most relevant terms based on a query string from a large dataset, considering both lexicographic ordering and associated importance weights. The project follows the specifications outlined for the ESC 190 H1F course at the University of Toronto.
