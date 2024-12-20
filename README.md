@@ -1,7 +1,7 @@
 # Autocomplete Project 
 
 ## Overview
-This project implements a high-performance autocomplete feature using C. The primary objective is to retrieve the most relevant terms based on a query string from a large dataset, considering both lexicographic ordering and associated importance weights. The project follows the specifications outlined for the ESC 190 H1F course at the University of Toronto.
+This project implements a high-performance autocomplete feature using C. The primary objective is to retrieve the most relevant terms based on a query string from a large dataset, considering both lexicographic ordering and associated importance weights. 
 
 ## Features
 1. **Data Loading and Sorting**: The terms are read from a file, dynamically allocated in memory, and sorted lexicographically using the `qsort` function.
